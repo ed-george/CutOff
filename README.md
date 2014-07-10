@@ -1,7 +1,7 @@
 Cut Off
 ======
 
-*"A Java annotation library increase productivity for fun and profit"*
+*"A Java annotation library to increase productivity for fun and profit"*
 
 Cut Off is a simple way of making sure deadlines are met. 
 
